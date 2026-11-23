@@ -54,8 +54,8 @@ Streaming Multilingual Response (Tamil / English)
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vino2203/week_buildathon.git
-   cd week_buildathon
+   git clone https://github.com/vino2203/tn-agri-schemes-assistant.git
+   cd tn-agri-schemes-assistant
    ```
 
 2. **Create and activate a virtual environment**:
